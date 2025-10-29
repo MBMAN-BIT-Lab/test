@@ -1,1 +1,1 @@
-# This is BIT lab
+# This is BIT test lab
